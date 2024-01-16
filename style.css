@@ -1,0 +1,37 @@
+h1{
+    color: blue;
+    font-size: 50px;
+    text-align: center;
+    margin-left: 10px;
+}
+h2{
+    margin-left: 10px;
+    font-size: 50px;
+    color: navy;
+}
+.imgdisplay{
+    border-radius: 500%;
+    width: 600px;
+    height: 500px;
+    margin-left: 450px;   
+}
+p{
+    color: rgb(43, 15, 182);
+    font-size: large;
+    font-weight: bold;
+    
+}
+ul li{
+    color: rgb(43, 15, 182);
+    font-size: large;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+ol li{
+    color: rgb(43, 15, 182);
+    font-size: large;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
